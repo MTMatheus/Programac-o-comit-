@@ -1,0 +1,7 @@
+# numero_inteiro = int(input("Dê UM NUMERO ->"))
+# DOBRO_do_INTEIRO = int(input(numero_inteiro * 2))
+# variavel_2 = int(input("Dẽ a variavel 2" ))
+# print(variavel_2 * variavel_2)
+idade = int(input("Mostre a idade -> "))
+# print(idade * 12)
+# print(idade * 365)
